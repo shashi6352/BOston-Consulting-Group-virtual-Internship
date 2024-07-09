@@ -1,0 +1,7 @@
+Outline for making your predictions
+It is your task to:
+
+Train a random forest classifier to predict churn
+Evaluate the predictions using evaluation metrics to demonstrate how accurately the model has performed
+
+Estelle has provided a Jupyter notebook to get started. You should use this as a template to complete the work for this task.
